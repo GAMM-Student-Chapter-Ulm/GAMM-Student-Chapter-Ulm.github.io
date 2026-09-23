@@ -14,9 +14,9 @@ layout: splash
     
     <p>We are a group of various Bachelor, Master and PhD students in the field of applied mathematics in Ulm, Germany.</p>
     
-    <p>With the beginning of 2019 we formed a GAMM Student Chapter. The <a href="https://www.gamm.org/en/">GAMM</a> (Gesellschaft für Angewandte Mathematik und Mechanik, engl.: Association of Applied Mathematics and Mechanics) is a German society for applied mathematics and mechanics.</p>
+    <p>With the beginning of 2019 we formed a GAMM Student Chapter. The <a href="https://www.gamm.org/en/" target="_blank" rel="noopener noreferrer">GAMM</a> (Gesellschaft für Angewandte Mathematik und Mechanik, engl.: Association of Applied Mathematics and Mechanics) is a German society for applied mathematics and mechanics.</p>
     
-    <p>Since spring of 2023 we are also a <a href="http://siam.org/">SIAM</a> Student Chapter. The SIAM (Society for Industrial and Applied Mathematics) is also a society for applied mathematics and mechanics, but is based in the U.S. and consists of applied mathematicians and computational scientists worldwide.</p>
+    <p>Since spring of 2023 we are also a <a href="http://siam.org/" target="_blank" rel="noopener noreferrer">SIAM</a> Student Chapter. The SIAM (Society for Industrial and Applied Mathematics) is also a society for applied mathematics and mechanics, but is based in the U.S. and consists of applied mathematicians and computational scientists worldwide.</p>
   </div>
 
   <!-- Right Column: Recent Posts Sidebar -->
@@ -26,7 +26,7 @@ layout: splash
       
       {% for post in site.posts limit:5 %}
         <li style="margin-bottom: 12px;">
-          <a href="{{ post.url }}" style="text-decoration: none; font-weight: bold; color: #36688d;">{{ post.title }}</a><br>
+          <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-weight: bold; color: #36688d;">{{ post.title }}</a><br>
           <small style="color: #666;">{{ post.date | date: "%B %d, %Y" }}</small>
         </li>
       {% endfor %}
