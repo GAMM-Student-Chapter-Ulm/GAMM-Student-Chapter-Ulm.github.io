@@ -1,0 +1,79 @@
+# Welcome to Jekyll!
+
+# Site settings
+title: "GAMM/SIAM Student Chapter Ulm"
+email: "contact@studentchapter-ulm.de"
+description: >-
+  Homepage of the GAMM and SIAM Studentchapter in Ulm. We are a group of various 
+  Bachelor, Master and PhD students in the field of applied mathematics.
+url: "https://studentchapter-ulm.de"
+# twitter_username: 
+github_username: "GAMM-Student-Chapter-Ulm"
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Berlin
+
+include:
+  - _pages
+
+# Plugins 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Student Chapter Ulm"
+  avatar : "" # You can add a path to a logo image here later if you want
+  bio    : "GAMM and SIAM Student Chapter at Universität Ulm."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://studentchapter-ulm.de"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GAMM-Student-Chapter-Ulm"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GAMM-Student-Chapter-Ulm"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

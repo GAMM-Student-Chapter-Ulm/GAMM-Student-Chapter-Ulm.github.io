@@ -1,0 +1,20 @@
+# Jekyll build directories and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler dependencies
+Gemfile.lock
+.bundle/
+vendor/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code workspace settings
+.vscode/
+
+# Ignore Sass cache files
+.sass-cache/

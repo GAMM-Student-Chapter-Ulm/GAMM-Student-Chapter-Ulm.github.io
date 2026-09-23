@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Activities"
+    url: /activities/
+  - title: "People"
+    url: /people/
+  - title: "Membership"
+    url: /membership/
+  - title: "Contact"
+    url: /contact/
