@@ -47,6 +47,10 @@ author:
 
 footer:
   links:
+    - label: "Impressum"
+      url: "/impressum/"
+    - label: "Datenschutz"
+      url: "/datenschutz/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GAMM-Student-Chapter-Ulm"
