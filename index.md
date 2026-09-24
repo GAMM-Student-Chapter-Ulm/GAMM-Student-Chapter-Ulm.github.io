@@ -3,7 +3,7 @@ layout: splash
 ---
 
 <!-- 1. The Banner Image -->
-<img src="/assets/images/IMG_2856.jpg" alt="Panorama of Ulm" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2.5em; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<img src="/assets/images/IMG_2856.webp" alt="Panorama of Ulm" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 2.5em; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
 <!-- 2. The Two-Column Layout -->
 <div style="display: flex; flex-wrap: wrap; gap: 3em; text-align: left;">
