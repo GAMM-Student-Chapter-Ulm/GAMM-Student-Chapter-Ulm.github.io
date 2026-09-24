@@ -1,5 +1,8 @@
 ---
 layout: splash
+title: "Activities"
+permalink: /activities/
+author_profile: false
 ---
 
 <!-- 1. The Banner Image -->
@@ -8,15 +11,21 @@ layout: splash
 <!-- 2. The Two-Column Layout -->
 <div style="display: flex; flex-wrap: wrap; gap: 3em; text-align: left;">
   
-  <!-- Left Column: Main Welcome Text -->
+  <!-- Left Column: All Posts -->
   <div style="flex: 2; min-width: 300px;">
-    <h2 style="margin-top: 0;">Welcome to the Student Chapter Ulm!</h2>
+    <h2 style="margin-top: 0;">All Activities & Posts</h2>
     
-    <p>We are a group of various Bachelor, Master and PhD students in the field of applied mathematics in Ulm, Germany.</p>
-    
-    <p>With the beginning of 2019 we formed a GAMM Student Chapter. The <a href="https://www.gamm.org/en/" target="_blank" rel="noopener noreferrer">GAMM</a> (Gesellschaft für Angewandte Mathematik und Mechanik, engl.: Association of Applied Mathematics and Mechanics) is a German society for applied mathematics and mechanics.</p>
-    
-    <p>Since spring of 2023 we are also a <a href="http://siam.org/" target="_blank" rel="noopener noreferrer">SIAM</a> Student Chapter. The SIAM (Society for Industrial and Applied Mathematics) is also a society for applied mathematics and mechanics, but is based in the U.S. and consists of applied mathematicians and computational scientists worldwide.</p>
+    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+      
+      {% for post in site.posts %}
+        <li style="margin-bottom: 24px; padding-bottom: 24px; border-bottom: 1px solid #eee;">
+          <a href="{{ post.url }}" style="text-decoration: none; font-weight: bold; color: #36688d; font-size: 1.2em;">{{ post.title }}</a><br>
+          <small style="color: #666;">{{ post.date | date: "%B %d, %Y" }}</small>
+          <p style="margin-top: 8px; color: #444;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        </li>
+      {% endfor %}
+      
+    </ul>
   </div>
 
   <!-- Right Column: Recent Posts Sidebar -->
