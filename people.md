@@ -20,7 +20,7 @@ author_profile: false
       <!-- Board Member Card -->
       <div style="background: #fff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0.8em 1em; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;">
         <div>
-          <h4 style="margin: 0 0 0.2em 0; color: #333;">Ahmad Hussein</h4>
+          <h4 style="margin: 0 0 0.2em 0; color: #333;">Carolin Müller</h4>
           <span style="background: #36688d; color: white; padding: 0.2em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">President</span>
         </div>
       </div>
@@ -41,7 +41,7 @@ author_profile: false
       
       <div style="background: #fff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0.8em 1em; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;">
         <div>
-          <h4 style="margin: 0 0 0.2em 0; color: #333;">Lewin Ernst</h4>
+          <h4 style="margin: 0 0 0.2em 0; color: #333;">Sven Angerer</h4>
           <span style="background: #36688d; color: white; padding: 0.2em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">Treasurer</span>
         </div>
       </div>
