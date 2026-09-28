@@ -1,5 +1,5 @@
 ---
-title: "GAMM Tagung 2026 in StuttgartPosen"
+title: "GAMM Tagung 2026 in Stuttgart"
 date: 2026-03-20
 categories:
   - Activities
@@ -34,7 +34,7 @@ We would like to thank the organizers at the University of Stuttgart for the exc
   <div class="slides">
     <img src="/assets/images/Stuttgart26_Group.jpg" alt="GAMM Conference in Stuttgart – Group">
     <img src="/assets/images/Stuttgart26_Urban_Mueller.jpg" alt="GAMM Conference in Stuttgart – Invitation to Ulm">
-    <img src="/assets/images/Stuttgart26_UrbanMueller2.jpg" alt="GAMM Conference in Stuttgart – Invitation to Ulm">
+    <img src="/assets/images/Stuttgart26_Urban_Mueller2.jpg" alt="GAMM Conference in Stuttgart – Invitation to Ulm">
   </div>
 
   <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
