@@ -11,7 +11,7 @@ A big thank you to the Augsburg group for the kind invitation and the warm welco
 
 <div class="slideshow">
   <div class="slides">
-    <img src="/assets/images/Ausgburg_2026JAGUARS_feat.Ulm_Jun26" alt="Meeting in Augsburg 2026">
+    <img src="/assets/images/Ausgburg_2026JAGUARS_feat.Ulm_Jun26.jpg" alt="Meeting in Augsburg 2026">
   </div>
 
   <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
