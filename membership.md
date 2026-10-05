@@ -15,8 +15,14 @@ author_profile: false
   <div style="flex: 2; min-width: 300px;">
     <h2 style="margin-top: 0;">Membership</h2>
     
-    <p>Being a member of the Student Chapter Ulm has many benefits. To get this honor, you just need to fill out the <a href="#">registration form</a>.</p>
-    
+    <p>Being a member of the Student Chapter Ulm has many benefits. To get this honor, you just need to contact us via E-mail (</p>
+    <p>📧 <strong><a href="mailto:contact@studentchapter-ulm.de">contact@studentchapter-ulm.de</a></strong></p> ) 
+    with the following information:>
+    <ul>
+      <li>name </li>
+      <li>study programm</li>
+      <li>date of birth</li>
+    </ul>
     <p>Thereby you will be recognized as a member of our Student Chapter and will be added to our mailing list. Please use your <code>@uni-ulm.de</code> or <code>@thu.de</code> mail address, so that we can verify that you are part of one of these institutions.</p>
     
     <p>Since we are a simultaneous Student Chapter of GAMM and SIAM, you can become a member of either one, but ideally of both of these institutions.</p>
