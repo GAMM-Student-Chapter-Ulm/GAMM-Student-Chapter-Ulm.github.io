@@ -6,7 +6,6 @@ categories:
   - Annual GAMM Meeting
 tags:
   - GAMM
-  - Tagung
   - Conference
   - Stuttgart
   - Research
@@ -16,7 +15,7 @@ header:
   teaser: "/assets/images/DSC08513-Poprawione-Szum.jpeg"
   overlay_image: "/assets/images/DSC08513-Poprawione-Szum.jpeg"
   overlay_filter: 0.4
-  caption: "Photo: GAMM Tagung 2026, Stuttgart"
+  caption: "Photo: GAMM Conference 2026, Stuttgart"
 ---
 
 Seven members of our GAMM/SIAM Student Chapter participated in the GAMM Annual Meeting 2026 in Stuttgart from March 16 to March 20, 2026. 
@@ -27,7 +26,7 @@ As a GAMM/SIAM Student Chapter, we are very pleased to have the opportunity to h
 We would like to thank the organizers at the University of Stuttgart for the excellent event.
 ---
 
-*Want to join us at the next GAMM Tagung? [Become a member](/membership/) of our Student Chapter!*
+*Want to join us at the next GAMM Conference? [Become a member](/membership/) of our Student Chapter!*
 
 
 <div class="slideshow">
