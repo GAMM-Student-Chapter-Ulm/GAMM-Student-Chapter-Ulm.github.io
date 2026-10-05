@@ -15,8 +15,6 @@ At the “Langer Abend der Wissenschaft” on July 15, 2022 at Ulm University, t
 
   <div class="dots">
     <span class="dot" onclick="showSlide(0)"></span>
-    <span class="dot" onclick="showSlide(1)"></span>
-    <span class="dot" onclick="showSlide(2)"></span>
   </div>
 </div>
 

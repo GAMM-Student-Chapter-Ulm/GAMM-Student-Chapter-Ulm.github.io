@@ -29,6 +29,8 @@ Thanks as well to all participants for the nice day together. We are very much l
     <span class="dot" onclick="showSlide(0)"></span>
     <span class="dot" onclick="showSlide(1)"></span>
     <span class="dot" onclick="showSlide(2)"></span>
+    <span class="dot" onclick="showSlide(3)"></span>
+    <span class="dot" onclick="showSlide(4)"></span>
   </div>
 </div>
 

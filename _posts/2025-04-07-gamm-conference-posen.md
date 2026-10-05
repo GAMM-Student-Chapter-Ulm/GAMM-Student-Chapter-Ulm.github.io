@@ -1,18 +1,17 @@
 ---
-title: "GAMM Tagung 2025 in Posen"
+title: "GAMM Conference 2025 in Posen"
 date: 2025-04-07
 categories:
   - Activities
   - Annual GAMM Meeting
 tags:
   - GAMM
-  - Tagung
   - Conference
   - Posen
   - Poland
   - Research
 author: "Student Chapter Ulm"
-excerpt: "Our delegation attended the GAMM Tagung 2025 in Posen, Poland – a fantastic week of scientific exchange, networking, and cultural discovery."
+excerpt: "Our delegation attended the GAMM Conference 2025 in Posen, Poland – a fantastic week of scientific exchange, networking, and cultural discovery."
 header:
   teaser: "/assets/images/DSC08513-Poprawione-Szum.jpeg"
   overlay_image: "/assets/images/DSC08513-Poprawione-Szum.jpeg"

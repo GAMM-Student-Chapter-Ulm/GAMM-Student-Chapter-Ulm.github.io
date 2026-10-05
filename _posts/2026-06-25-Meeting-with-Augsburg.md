@@ -1,23 +1,17 @@
 ---
-title: "Save the date! GAMM Nabada Party 2019"
+title: "Meeting the Augsburg Student Chapter"
 categories:
-  - SIAM
-  - Nabada
+  - Activities
 ---
-Proudly we organized and participated in the 11th track of the Project 46 by the UZWR at the Ulmer Nabada. In this traditional water hose fight many people float down the danube in Ulm
+On June 25, 2026, a group of three GAMM members from Ulm visited the GAMM Student Chapter Group in Augsburg.
 
+The meeting provided a great opportunity for scientific exchange, interesting discussions, and getting to know each other better over a shared lunch. We also agreed to stay in close contact, continue exchanging ideas, and plan joint activities in the future.
+
+A big thank you to the Augsburg group for the kind invitation and the warm welcome! We are already looking forward to the next meeting and to many more opportunities for collaboration and exchange.
 
 <div class="slideshow">
   <div class="slides">
-    <img src="/assets/images/Nabada2019/Nabada_2019_1.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_2.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_3.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_4.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_5.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_6.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_7.jpg" alt="Nabada 2019">
-    <img src="/assets/images/Nabada2019/Nabada_2019_8.jpg" alt="Nabada 2019">
-
+    <img src="/assets/images/Ausgburg_2026JAGUARS_feat.Ulm_Jun26" alt="Meeting in Augsburg 2026">
   </div>
 
   <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
@@ -25,13 +19,6 @@ Proudly we organized and participated in the 11th track of the Project 46 by the
 
   <div class="dots">
     <span class="dot" onclick="showSlide(0)"></span>
-    <span class="dot" onclick="showSlide(1)"></span>
-    <span class="dot" onclick="showSlide(2)"></span>
-    <span class="dot" onclick="showSlide(3)"></span>
-    <span class="dot" onclick="showSlide(4)"></span>
-    <span class="dot" onclick="showSlide(5)"></span>
-    <span class="dot" onclick="showSlide(6)"></span>
-    <span class="dot" onclick="showSlide(7)"></span>
   </div>
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "GAMM Tagung 2026 in Stuttgart"
+title: "GAMM Conference 2026 in Stuttgart"
 date: 2026-03-20
 categories:
   - Activities
