@@ -91,7 +91,7 @@ author_profile: false
           <td style="padding: 12px 8px;"><a href="mailto:stefanie-1.freiheit@uni-ulm.de" style="color: #36688d; text-decoration: none;">stefanie-1.freiheit@uni-ulm.de</a></td>
         </tr>
         <tr style="border-bottom: 1px solid #ddd;">
-          <td style="padding: 12px 8px;">Carolin Müller</td>
+          <td style="padding: 12px 8px;">Carolin M Müller</td>
           <td style="padding: 12px 8px;"><a href="mailto:carolin.mueller@uni-ulm.de" style="color: #36688d; text-decoration: none;">carolin.mueller@uni-ulm.de</a></td>
         </tr>
         <tr style="border-bottom: 1px solid #ddd;">
